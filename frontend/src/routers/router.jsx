@@ -1,7 +1,7 @@
 import React from 'react';
 import { createBrowserRouter } from 'react-router-dom';
 import App from '../App';
-import Home from "../pages/home/home";
+import Index from "../pages/home/index"; // Ensure it's PascalCase
 import CategoryPage from '../pages/category/CategoryPage';
 import Search from '../pages/search/Search';
 import ShopPage from '../pages/shop/ShopPage';
@@ -14,20 +14,14 @@ const router = createBrowserRouter([
     path: '/',
     element: <App />,
     children: [
-      { path: '', element: <Home /> },
-      { path: '/categories/:categoryName', element: <CategoryPage /> },
-      { path: '/search', element: <Search /> },
-      { path: '/shop', element: <ShopPage /> }, // Fixed the path casing
-      { path: '/shop/:id', element: <SingleProducts /> } // Fixed the path and parameter
+      { path: '', element: <Index /> }, // Updated to PascalCase
+      { path: 'categories/:categoryName', element: <CategoryPage /> },
+      { path: 'search', element: <Search /> },
+      { path: 'shop', element: <ShopPage /> },
+      { path: 'shop/:id', element: <SingleProducts /> },
+      { path: 'login', element: <Login /> },
+      { path: 'register', element: <Register /> }
     ]
-  },
-  {
-    path: "/login",
-    element: <Login/>
-  },
-  {
-    path: "/Register",
-    element: <Register/>
   }
 ]);
 

@@ -31,7 +31,12 @@ const Navbar = () => {
           
         </ul>
 
-        {/* Logo */}
+        {/*$body = @{
+    name     = "John Doe"
+    email    = "johndoe@example.com"
+    password = "SecurePassword123"
+} | ConvertTo-Json
+ Logo */}
         <div className="nav__logo">
           <span>CULTURA<span>.</span></span>
         </div>
