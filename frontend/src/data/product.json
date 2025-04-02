@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Nguni Noir Wall Accent",
+    "category": "African Furniture",
+    "description": "A handcrafted wall hanging featuring the Nguni cattle head, symbolizing African heritage and craftsmanship.",
+    "price": 150.00,
+    "image": "https://images.pexels.com/photos/8741309/pexels-photo-8741309.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color": "black",
+    "rating": 4.8,
+    "author": "African Crafts Market"
+  },
+  {
+    "id": 2,
+    "name": "Coco Essence Ceramic Vase",
+    "category": "African Furniture",
+    "description": "Handmade ceramic vase from Ivory Coast, showcasing traditional African pottery techniques.",
+    "price": 80.00,
+    "image": "https://images.pexels.com/photos/18278210/pexels-photo-18278210/free-photo-of-sculpture-made-with-pottery-vases-in-art-gallery.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color": "earth tones",
+    "rating": 4.5,
+    "author": "Ineza African Interior Art"
+  },
+  {
+    "id": 3,
+    "name": "Senufo Heritage Mini Stool",
+    "category": "African Furniture",
+    "description": "Miniature Senufo stool from Ivory Coast, intricately carved from a single piece of wood.",
+    "price": 56.00,
+    "image": "https://images.pexels.com/photos/3049121/pexels-photo-3049121.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color": "natural wood",
+    "rating": 4.7,
+    "author": "Ineza African Interior Art"
+  },
+  {
+    "id": 4,
+    "name": "Luxe  Napkin Rings Holder",
+    "category": "Handcrafted Jewelry",
+    "description": "Premium brass napkin holders handcrafted in Kenya, adding elegance to any dining setting.",
+    "price": 19.68,
+    "image": "https://images.pexels.com/photos/6207421/pexels-photo-6207421.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color": "gold",
+    "rating": 4.6,
+    "author": "Mawu Africa"
+  },
+  {
+    "id": 5,
+    "name": "Midnight Safari Wall Art",
+    "category": "Cultural Artwork",
+    "description": "A dramatic wallpaper design featuring vintage birds and monkeys, perfect for enhancing interior spaces.",
+    "price": 300.00,
+    "image": "https://images.pexels.com/photos/30927609/pexels-photo-30927609/free-photo-of-elegant-tropical-themed-living-room-interior-design.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color": "multicolor",
+    "rating": 4.9,
+    "author": "SARZA STORE"
+  },
+  {
+    "id": 6,
+    "name": "AfroLoom Throw Blanket",
+    "category": "Traditional Textiles",
+    "description": "A cozy throw blanket made from traditional African textiles, adding warmth and cultural flair to your living room.",
+    "price": 120.00,
+    "image": "https://images.pexels.com/photos/11537258/pexels-photo-11537258.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color": "various patterns",
+    "rating": 4.8,
+    "author": "54kibo"
+  },
+  {
+    "id": 7,
+    "name": "Terra Weave Sisal Basket",
+    "category": "Traditional Textiles",
+    "description": "A versatile sisal basket handwoven by artisans, ideal for storage or as a decorative piece.",
+    "price": 45.00,
+    "image": "https://images.pexels.com/photos/28617395/pexels-photo-28617395/free-photo-of-handcrafted-woven-baskets-and-bird-nests.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color": "natural",
+    "rating": 4.7,
+    "author": "Kanju Interiors"
+  },
+  {
+    "id": 8,
+    "name": "Tribal Echo Mask Decor",
+    "category": "Cultural Artwork",
+    "description": "A wall decor piece featuring a traditional African mask, adding an artistic touch to your home.",
+    "price": 65.00,
+    "image": "https://images.pexels.com/photos/28752859/pexels-photo-28752859/free-photo-of-modern-interior-design-with-wooden-dining-set.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "color": "brown",
+    "rating": 4.6,
+    "author": "The Black Art Depot"
+  },
+  {
+    "id": 9,
+    "name": "Regal Bead Cascade Chandelier",
+    "category": "Handcrafted Jewelry",
+    "description": "An elegant chandelier adorned with colorful beads, bringing a vibrant African aesthetic to your space.",
+    "price": 250.00,
+    "image": "https://images.pexels.com/photos/29522526/pexels-photo-29522526/free-photo-of-elegant-jewelry-display-with-pearls-and-gold-bangles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "color": "multicolor",
+    "rating": 4.8,
+    "author": "Eva Sonaike"
+  },
+  {
+    "id": 10,
+    "name": "Zenji Carved Wall Panel",
+    "category": "African Furniture",
+    "description": "A wooden wall panel carved with traditional African patterns, perfect for adding texture and cultural depth to your walls.",
+    "price": 180.00,
+    "image": "https://media.istockphoto.com/id/1440927588/photo/architectural-ornament.jpg?s=612x612&w=0&k=20&c=vi0F37J0lHGjGk3SqFUWPixfYVR7GYxdxwqjKWyAITc=",
+    "color": "dark wood",
+    "rating": 4.9,
+    "author": "Phases Africa Furniture & Decor"
+  }
+]

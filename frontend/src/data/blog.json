@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Mastering the Art of Cultural Interior Design",
+      "subtitle": "Blending Heritage with Modern Living",
+      "date": "12th August 2022",
+      "imageUrl": "https://images.pexels.com/photos/6191994/pexels-photo-6191994.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "id": 2,
+      "title": "Exploring the Fusion of Traditional Craft and Interior Design",
+      "subtitle": "Reviving Cultural Identity",
+      "date": "18th January 2023",
+      "imageUrl": "https://media.istockphoto.com/id/1357529933/photo/digitally-generated-image-of-a-fully-furnished-living-room.jpg?b=1&s=612x612&w=0&k=20&c=w9LxmxRyz4LT_v-xDNO8-ertuEGXC3YTydKHa3xkJsw="
+    },
+    {
+      "id": 3,
+      "title": "The Role of Art in Shaping Interior Design Trends",
+      "subtitle": "Innovating Spaces with Culture",
+      "date": "5th January 2025",
+      "imageUrl": "https://images.pexels.com/photos/8903333/pexels-photo-8903333.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "id": 4,
+      "title": "The Intersection of Art and Interior Design",
+      "subtitle": "Designing Cultural Spaces for the Modern World",
+      "date": "25th May 2025",
+      "imageUrl": "https://images.pexels.com/photos/8235834/pexels-photo-8235834.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    }
+  ]
+  
